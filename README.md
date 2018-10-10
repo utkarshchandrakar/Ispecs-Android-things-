@@ -1,6 +1,5 @@
 iSpecs: For the Blind:-
 A pair of smart glasses for the blind. Powered by Android Things and Tensor Flow also integrated with Google Assistant.
-img
 
 Team:- Lunatic Coders
 Members:-
@@ -8,6 +7,7 @@ Shritesh Jamulkar - Shritesh99
 Siddharth Shah - siddharthshah3030
 Utkarsh Chandrakar - utkarshchandrakar
 Akash Gayakwad - Akashgayakwad
+
 COMPONENTS REQUIRED:-
 HARDWARE:-
 Raspberry Pi 3 Module B / Raspberry Pi Zero WH
@@ -24,7 +24,6 @@ Google android things
 TensorFlow lite Inception model
 Resin.io
 Google Assistant SDK
-tff
 
 PROBLEM:-
 Ever thought how is the life of a blind person, their life is full of risk. They can't even walk alone through a busy street or through a park. They shall need some assistance from others. They are also curious about the beauty of the world. Even though they can find their own things without anyone's need. So, How we solve this?
